@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/OratileMokgoatlheng](https://github.com/OratileMokgoatlheng)
 
-- 📫 How to reach me **mokgoatlhengoGmail.com**
+- 📫 How to reach me **mokgoatlhengo@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/OratileMokgoatlheng/ORAMOK883_BCL2302_NAEEM_ORATILE_MOKGOATLHENG_FINAL_DIGITAL_RESUME.git](https://github.com/OratileMokgoatlheng/ORAMOK883_BCL2302_NAEEM_ORATILE_MOKGOATLHENG_FINAL_DIGITAL_RESUME.git)
 
