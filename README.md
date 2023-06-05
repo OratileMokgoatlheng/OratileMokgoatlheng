@@ -22,8 +22,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://codepen.io/https://codepen.io/oratile-mokgoatlheng](https://codepen.io/ORATILE-MOKGOATLHENG)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/oratile-mokgoatlheng" height="30" width="40" /></a>
-<a href="[https://twitter.com/_ratzii_](https://twitter.com/_ratzii_)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ratzii_" height="30" width="40" /></a>
+<a href="https://codepen.io/https://codepen.io/oratile-mokgoatlheng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/oratile-mokgoatlheng" height="30" width="40" /></a>
+<a href="https://twitter.com/_ratzii_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ratzii_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/oratilemokgoatlheng/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oratilemokgoatlheng/" height="30" width="40" /></a>
 <a href="https://instagram.com/@r.atzii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@r.atzii" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/oratile mokgoatlheng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="oratile mokgoatlheng" height="30" width="40" /></a>
