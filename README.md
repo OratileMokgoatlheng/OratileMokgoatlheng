@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋. I am Oratile Mokgoatlheng</h1>
-<h3 align="center">an aspiring software developer and lifelong learner, I'm passionate about creating innovative solutions through code. This GitHub profile showcases my journey in the world of software development, where I explore various technologies, share my projects, and collaborate with like-minded individuals. Join me on this exciting coding adventure as we dive into the realm of software development, learning, and building together. Feel free to explore my repositories, contribute to ongoing projects, or get in touch for collaborations and discussions. Together, let's push the boundaries of what's possible with code and make a positive impact on the world through technology. Happy coding! 🚀</h3>
+<h1 align="center">Hi 👋. I am Oratile Mokgoatlheng,</h1>
+<h3 align="center">an aspiring software developer and lifelong learner. I'm passionate about creating innovative solutions through code. This GitHub profile showcases my journey in the world of software development, where I explore various technologies, share my projects, and collaborate with like-minded individuals. Join me on this exciting coding adventure as we dive into the realm of software development, learning, and building together. Feel free to explore my repositories, contribute to ongoing projects, or get in touch for collaborations and discussions. Together, let's push the boundaries of what's possible with code and make a positive impact on the world through technology. Happy coding! 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oratilemokgoatlheng&label=Profile%20views&color=0e75b6&style=flat" alt="oratilemokgoatlheng" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oratilemokgoatlheng" alt="oratilemokgoatlheng" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/_ratzii_" target="blank"><img src="https://img.shields.io/twitter/follow/_ratzii_?logo=twitter&style=for-the-badge" alt="_ratzii_" /></a> </p>
 
