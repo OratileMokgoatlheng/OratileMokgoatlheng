@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/_ratzii_" target="blank"><img src="https://img.shields.io/twitter/follow/_ratzii_?logo=twitter&style=for-the-badge" alt="_ratzii_" /></a> </p>
 
-- 🔭 I’m currently working on [Dynamic Web Application](https://github.com/OratileMokgoatlheng/DWA.git)
+- 🔭 I’m currently working on Agile Development
 
-- 🌱 I’m currently learning **Frameworks like Angular, React, and Vue**
+- 🌱 I’m currently learning **JavaScript Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OratileMokgoatlheng](https://github.com/OratileMokgoatlheng)
 
