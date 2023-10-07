@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oratilemokgoatlheng&label=Profile%20views&color=0e75b6&style=flat" alt="oratilemokgoatlheng" /> </p>
 
-<a href="https://app.daily.dev/ORATILE"><img src="https://api.daily.dev/devcards/06c4a355f2eb425bbeecad1e722472f1.png?r=s80" width="400" alt="Oratile Kegomoditswe's Dev Card"/></a>
-
 <p align="left"> <a href="https://twitter.com/_ratzii_" target="blank"><img src="https://img.shields.io/twitter/follow/_ratzii_?logo=twitter&style=for-the-badge" alt="_ratzii_" /></a> </p>
 
-- 🔭 I’m currently working on Agile Development
+- 🔭 I’m currently working on **Agile Development**
 
 - 🌱 I’m currently learning **JavaScript Engineering**
 
