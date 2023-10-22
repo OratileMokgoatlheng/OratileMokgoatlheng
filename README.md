@@ -4,7 +4,7 @@
 
 #### About Me
 
-I am a dedicated software developer with a penchant for creating groundbreaking solutions through code. My GitHub is a reflection of my journey in the software development world, where I explore various technologies, collaborate with like-minded individuals, and share my projects.
+I am a dedicated software developer with a fondness for creating groundbreaking solutions through code. My GitHub is a reflection of my journey in the software development world, where I explore various technologies, collaborate with like-minded individuals, and share my projects.
 
 Feel free to explore my repositories, contribute to ongoing projects, or get in touch for collaborations and discussions. Together, let's push the boundaries of what's possible with code and make a positive impact on the world through technology. Happy coding! 🚀
 
