@@ -2,6 +2,12 @@
 
 <h3 align="center">Aspiring Software Developer | Lifelong Learner</h3>
 
+#### About Me
+
+I am a dedicated software developer with a penchant for creating groundbreaking solutions through code. My GitHub is a reflection of my journey in the software development world, where I explore various technologies, collaborate with like-minded individuals, and share my projects.
+
+Feel free to explore my repositories, contribute to ongoing projects, or get in touch for collaborations and discussions. Together, let's push the boundaries of what's possible with code and make a positive impact on the world through technology. Happy coding! 🚀
+
 <p align="center">
   <a href="https://twitter.com/_ratzii_">
     <img src="https://img.shields.io/twitter/follow/_ratzii_?logo=twitter&style=for-the-badge" alt="_ratzii_ on Twitter" />
@@ -13,12 +19,6 @@
 - 🔭 Currently working on: **Agile Development**
 - 🌱 Currently learning: **JavaScript Engineering**
 - 📫 Reach me at: [mokgoatlhengo@gmail.com](mailto:mokgoatlhengo@gmail.com)
-
-#### About Me
-
-I am a dedicated software developer with a penchant for creating groundbreaking solutions through code. My GitHub is a reflection of my journey in the software development world, where I explore various technologies, collaborate with like-minded individuals, and share my projects.
-
-Feel free to explore my repositories, contribute to ongoing projects, or get in touch for collaborations and discussions. Together, let's push the boundaries of what's possible with code and make a positive impact on the world through technology. Happy coding! 🚀
 
 #### Connect with Me
 
